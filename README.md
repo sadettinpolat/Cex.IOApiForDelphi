@@ -15,8 +15,8 @@ https://cex.io/rest-api adresinde yer alan apileri **Delphi 2010** ile kullanmak
 
 # Kaynaklar
 
-Hash Based Message Authentication https://eksisozluk.com/hmac--936006
-Indy HMAC https://stackoverflow.com/questions/2003194/hmac-sha256-in-delphi
+- Hash Based Message Authentication https://eksisozluk.com/hmac--936006
+- Indy HMAC https://stackoverflow.com/questions/2003194/hmac-sha256-in-delphi
   
 ### Todos
 
