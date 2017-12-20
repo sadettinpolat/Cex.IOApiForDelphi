@@ -21,3 +21,7 @@ https://cex.io/rest-api adresinde yer alan apileri **Delphi 2010** ile kullanmak
 ### Todos
 
  - Eksik apiler eklenecek
+ 
+ # Support
+
+- You can use my reference link for support https://cex.io/r/0/up108569799/0/
